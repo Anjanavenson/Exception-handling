@@ -1,7 +1,7 @@
 public class ThrowKeyword {
     public static void main(String[] args) {
-        ThrowsKeyword tk1 = new ThrowsKeyword();
-        ThrowsKeyword tk2;
+        ThrowKeyword tk1 = new ThrowKeyword();
+        ThrowKeyword tk2;
         try {
             tk1.test();
         }
